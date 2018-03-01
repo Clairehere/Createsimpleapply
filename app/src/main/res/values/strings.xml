@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cocher">Yes, I want to the wilder</string>
+    <string name="Name">Your Name</string>
+    <string name="Lastname">Your Lastname</string>
+    <string name="your_firstname">Your Firstname</string>
+    <string name="your_lastname">Your Lastname</string>
+    <string name="baccept">Accept</string>
+    <string name="congralutation">Congralutation +</string>
+    <string name="welcome">Welcome to the Wild Code School</string>
+
+
+</resources>
